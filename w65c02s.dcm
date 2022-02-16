@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP W65C02S
+D 8-bit General Purpose Microprocessor, DIP-40
+K 6502
+F http://archive.6502.org/datasheets/wdc_w65c02s_oct_8_2018.pdf
+$ENDCMP
+#
+#End Doc Library

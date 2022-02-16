@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NSC800N
+D 8-bit General Purpose Microprocessor, DIP-40
+K CMOS MPU Z80
+F https://pdf1.alldatasheet.com/datasheet-pdf/view/9302/NSC/NSC800N.html
+$ENDCMP
+#
+#End Doc Library

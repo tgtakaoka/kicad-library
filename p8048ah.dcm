@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MSM80C39RS
+D 8-bit General Purpose Microprocessor, DIP-40
+K CMOS MCS-48
+F https://datasheetspdf.com/pdf-file/515122/OKIelectroniccomponets/MSM80C48/1
+$ENDCMP
+#
+$CMP MSM80C48RS
+D 8-bit General Purpose Microprocessor, DIP-40
+K CMOS MCS-48
+F https://datasheetspdf.com/pdf-file/515122/OKIelectroniccomponets/MSM80C48/1
+$ENDCMP
+#
+$CMP P8039AHL
+D 8-bit General Purpose Microprocessor, DIP-40
+K Intel MSC-48
+F https://datasheetspdf.com/pdf-file/45011/IntelCorporation/8085AH/1
+$ENDCMP
+#
+$CMP P8048AH
+D 8-bit General Purpose Microprocessor, DIP-40
+K Intel MCS-48
+F https://datasheetspdf.com/pdf-file/541971/Intel/P8048AH/1
+$ENDCMP
+#
+#End Doc Library

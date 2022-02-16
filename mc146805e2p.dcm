@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MC146805E2P
+D 8-bit General Purpose Microprocessor, DIP-40
+K MC6805 MPU
+F https://www.datasheetarchive.com/pdf/download.php?id=8308749ebec04603691dcc4aa7c9e5d85c5a25&type=M&term=MC146805E2P
+$ENDCMP
+#
+#End Doc Library

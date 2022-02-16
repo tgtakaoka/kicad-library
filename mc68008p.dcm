@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MC68008P
+D 16-Bit Microprosessor With 8-Bit Data Bus
+K MC68000
+F https://pdf1.alldatasheet.com/datasheet-pdf/view/4141/MOTOROLA/MC68008.html
+$ENDCMP
+#
+#End Doc Library

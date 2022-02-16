@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Z16C02
+D 16-bit General Purpose Microprocessor, DIP-40
+K CMOS Z8000 no-segment
+F https://www.alldatasheet.com/datasheet-pdf/pdf/165769/ZILOG/Z16C02.html
+$ENDCMP
+#
+$CMP Z8002
+D 16-bit General Purpose Microprocessor, DIP-40
+K Z8000 no-segment
+F https://pdf1.alldatasheet.com/datasheet-pdf/view/1283760/ZILOG/Z8002.html
+$ENDCMP
+#
+#End Doc Library

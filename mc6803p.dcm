@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MC6801P
+F https://datasheetspdf.com/pdf-file/501905/Motorola/MC6803/1
+$ENDCMP
+#
+$CMP MC6803P
+D 8-bit General Purpose Microprocessor, DIP-40
+K MC6801/6803 MPU
+F https://datasheetspdf.com/pdf-file/501905/Motorola/MC6803/1
+$ENDCMP
+#
+#End Doc Library

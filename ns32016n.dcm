@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NS32016N
+D 32-bit General Purpose Microprocessor, DIP-48
+K NS32000 16-Bit data bus
+F https://archive.org/details/1986_NS32000_dataBook
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MC68HC11A0P
+F https://www.nxp.com/docs/en/data-sheet/MC68HC11A8.pdf
+$ENDCMP
+#
+$CMP MC68HC11A1P
+D 8-bit General Purpose Microprocessor, DIP-40
+K MC6801/6803 MPU
+F https://www.nxp.com/docs/en/data-sheet/MC68HC11A8.pdf
+$ENDCMP
+#
+$CMP MC68HC11A8P
+D 8-bit General Purpose Microprocessor, DIP-40
+K MC68HC11 MPU
+F https://www.nxp.com/docs/en/data-sheet/MC68HC11A8.pdf
+$ENDCMP
+#
+#End Doc Library
