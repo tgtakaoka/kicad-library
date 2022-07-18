@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MN1613
+D 16-bit General Purpose Microprocessor, DIP-40
+K 16-Bit Microcomputer TMS99xx
+F https://www.datasheetarchive.com/MN1613-datasheet.html
+$ENDCMP
+#
+#End Doc Library
