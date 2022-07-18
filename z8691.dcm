@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Z8691
+D 8-bit General Purpose Microprocessor, DIP-40
+K Z8 Microcomputer
+F https://datasheetspdf.com/datasheet/Z8691.html
+$ENDCMP
+#
+$CMP Z86C91
+D 8-bit General Purpose Microprocessor, DIP-40
+K Z8 CMOS Microcomputer
+F https://datasheetspdf.com/pdf-file/1412044/Zilog/Z86C91/1
+$ENDCMP
+#
+#End Doc Library
