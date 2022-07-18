@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP uPD70108
+D 16-bit General Purpose Microprocessor, DIP-40
+K 16/8-Bit CMOS Microprocessor 8088/8086 V20
+F http://pdf.datasheetcatalog.com/datasheet_pdf/intel/P8088_and_P8088-2.pdf
+$ENDCMP
+#
+#End Doc Library
