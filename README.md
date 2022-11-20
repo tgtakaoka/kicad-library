@@ -55,5 +55,5 @@ Retro 8-bit MPU/CPU.
 ### ``logic7400``
 Standard TTL 7400 series.
 
- - ``74ls126`` 74LS126 quad tristate-buffer
+ - ``74hct126`` 74HCT126 quad tristate-buffer
 
