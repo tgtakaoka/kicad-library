@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TMS99105
-D 16-bit General Purpose Microprocessor, DIP-40
-K 16-Bit Microcomputer TMS99xx
-F http://www.bitsavers.org/components/ti/TMS9900/TMS99105A_and_TMS99110A_16-Bit_Microprocessors_Preliminary_Data_Manual_Nov82.pdf
-$ENDCMP
-#
-#End Doc Library

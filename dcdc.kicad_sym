@@ -9,7 +9,7 @@
     (property "Footprint" "0-LocalLibrary:Converter_DCDC_Minmax_MAU100_THT" (at -26.67 -6.35 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Datasheet" "https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdfhttps://www.minmaxpower.com/storage/media/Product-MINMAX/MBU100/MBU100_Datasheet.pdf" (at 26.67 -7.62 0)
+    (property "Datasheet" "https://www.minmaxpower.com/storage/media/Product-MINMAX/MAU100/Document/MAU100_Datasheet.pdf" (at 26.67 -7.62 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "ki_keywords" "Minmax DC/DC isolated converter" (at 0 0 0)

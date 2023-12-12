@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP MC6802P
-D 8-bit General Purpose Microprocessor, DIP-40
-K MC6802 MPU MC6800
-F https://datasheetspdf.com/pdf-file/544765/Motorola/MC6802/1
-$ENDCMP
-#
-#End Doc Library

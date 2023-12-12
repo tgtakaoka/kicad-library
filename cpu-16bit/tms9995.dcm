@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TMS9995
-D 16-bit General Purpose Microprocessor, DIP-40
-K 16-Bit Microcomputer TMS99xx
-F https://pdf1.alldatasheet.com/datasheet-pdf/view/81555/TI/TMS9995.html
-$ENDCMP
-#
-#End Doc Library
