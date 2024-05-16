@@ -1,5 +1,6 @@
 (footprint "LED_CSL1901UW1_ROM" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
+  (descr "Rohm  CSL1091 low-current LED")
   (tags "CSL1901UW1 ")
   (attr smd)
   (fp_text reference "REF**" (at 3.556 0 unlocked) (layer "F.SilkS")
@@ -82,7 +83,7 @@
       )
     )
   )
-  (model "/home/t2/kicad-vendors/kicad-rohm/LED_CSL1901UW1_ROM.step"
+  (model "/home/t2/kicad/bionic.pretty/LED_CSL1901UW1_ROM.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
