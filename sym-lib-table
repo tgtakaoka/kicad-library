@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "bionic")(type "KiCad")(uri "${KIPRJMOD}/bionic.kicad_sym")(options "")(descr ""))
+)
