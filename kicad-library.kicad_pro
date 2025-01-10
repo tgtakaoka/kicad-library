@@ -9,6 +9,13 @@
       "track_widths": [],
       "via_dimensions": []
     },
+    "ipc2581": {
+      "dist": "",
+      "distpn": "",
+      "internal_id": "",
+      "mfg": "",
+      "mpn": ""
+    },
     "layer_presets": [],
     "viewports": []
   },
@@ -17,7 +24,11 @@
     "equivalence_files": []
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "dcdc",
+      "connector",
+      "bionic"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
@@ -56,8 +67,11 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
+      "plot": "",
+      "pos_files": "",
       "specctra_dsn": "",
       "step": "",
+      "svg": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
