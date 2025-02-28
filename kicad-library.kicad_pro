@@ -29,7 +29,11 @@
       "connector",
       "bionic"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "dcdc",
+      "led",
+      "memory"
+    ]
   },
   "meta": {
     "filename": "kicad-library.kicad_pro",

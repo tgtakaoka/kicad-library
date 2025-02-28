@@ -1,4 +1,10 @@
 (sym_lib_table
   (version 7)
   (lib (name "bionic")(type "KiCad")(uri "${KIPRJMOD}/bionic.kicad_sym")(options "")(descr ""))
+  (lib (name "connector")(type "KiCad")(uri "${KIPRJMOD}/connector.kicad_sym")(options "")(descr ""))
+  (lib (name "cpu-8bit")(type "KiCad")(uri "${KIPRJMOD}/cpu-8bit.kicad_sym")(options "")(descr ""))
+  (lib (name "cpu-16bit")(type "KiCad")(uri "${KIPRJMOD}/cpu-16bit.kicad_sym")(options "")(descr ""))
+  (lib (name "dcdc")(type "KiCad")(uri "${KIPRJMOD}/dcdc.kicad_sym")(options "")(descr ""))
+  (lib (name "led")(type "KiCad")(uri "${KIPRJMOD}/led.kicad_sym")(options "")(descr ""))
+  (lib (name "memory")(type "KiCad")(uri "${KIPRJMOD}/memory.kicad_sym")(options "")(descr ""))
 )
