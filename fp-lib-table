@@ -10,4 +10,5 @@
   (lib (name "nexperia")(type "KiCad")(uri "${KIPRJMOD}/nexperia.pretty")(options "")(descr ""))
   (lib (name "nisshinbo")(type "KiCad")(uri "${KIPRJMOD}/nisshinbo.pretty")(options "")(descr ""))
   (lib (name "murata")(type "KiCad")(uri "${KIPRJMOD}/murata.pretty")(options "")(descr ""))
+  (lib (name "microchip")(type "KiCad")(uri "${KIPRJMOD}/microchip.pretty")(options "")(descr ""))
 )
