@@ -28,13 +28,15 @@
       "dcdc",
       "connector",
       "bionic",
-      "3m"
+      "3m",
+      "aries"
     ],
     "pinned_symbol_libs": [
       "dcdc",
       "led",
       "memory",
-      "3m"
+      "3m",
+      "aries"
     ]
   },
   "meta": {
