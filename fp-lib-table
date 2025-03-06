@@ -5,4 +5,5 @@
   (lib (name "dcdc")(type "KiCad")(uri "${KIPRJMOD}/dcdc.pretty")(options "")(descr ""))
   (lib (name "3m")(type "KiCad")(uri "${KIPRJMOD}/3m.pretty")(options "")(descr ""))
   (lib (name "aries")(type "KiCad")(uri "${KIPRJMOD}/aries.pretty")(options "")(descr ""))
+  (lib (name "rhom")(type "KiCad")(uri "${KIPRJMOD}/rhom.pretty")(options "")(descr ""))
 )
