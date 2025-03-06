@@ -3,4 +3,5 @@
   (lib (name "bionic")(type "KiCad")(uri "${KIPRJMOD}/bionic.pretty")(options "")(descr ""))
   (lib (name "connector")(type "KiCad")(uri "${KIPRJMOD}/connector.pretty")(options "")(descr ""))
   (lib (name "dcdc")(type "KiCad")(uri "${KIPRJMOD}/dcdc.pretty")(options "")(descr ""))
+  (lib (name "3m")(type "KiCad")(uri "${KIPRJMOD}/3m.pretty")(options "")(descr ""))
 )

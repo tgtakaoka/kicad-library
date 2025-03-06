@@ -27,12 +27,14 @@
     "pinned_footprint_libs": [
       "dcdc",
       "connector",
-      "bionic"
+      "bionic",
+      "3m"
     ],
     "pinned_symbol_libs": [
       "dcdc",
       "led",
-      "memory"
+      "memory",
+      "3m"
     ]
   },
   "meta": {

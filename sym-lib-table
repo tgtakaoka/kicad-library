@@ -7,4 +7,5 @@
   (lib (name "dcdc")(type "KiCad")(uri "${KIPRJMOD}/dcdc.kicad_sym")(options "")(descr ""))
   (lib (name "led")(type "KiCad")(uri "${KIPRJMOD}/led.kicad_sym")(options "")(descr ""))
   (lib (name "memory")(type "KiCad")(uri "${KIPRJMOD}/memory.kicad_sym")(options "")(descr ""))
+  (lib (name "3m")(type "KiCad")(uri "${KIPRJMOD}/3m.kicad_sym")(options "")(descr ""))
 )
