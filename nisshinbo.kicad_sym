@@ -287,24 +287,6 @@
 				)
 			)
 			(pin passive line
-				(at 10.16 -7.62 180)
-				(length 2.54)
-				(name "C+"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
 				(at -10.16 -5.08 0)
 				(length 2.54)
 				(name "CLK"
@@ -342,6 +324,24 @@
 			)
 		)
 		(symbol "NJW4191_1_0"
+			(pin passive line
+				(at 10.16 -7.62 180)
+				(length 2.54)
+				(name "C-"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 			(pin power_out line
 				(at 2.54 2.54 270)
 				(length 2.54)
