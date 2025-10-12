@@ -14,4 +14,5 @@
   (lib (name "nexperia")(type "KiCad")(uri "${KIPRJMOD}/nexperia.kicad_sym")(options "")(descr ""))
   (lib (name "nisshinbo")(type "KiCad")(uri "${KIPRJMOD}/nisshinbo.kicad_sym")(options "")(descr ""))
   (lib (name "microchip")(type "KiCad")(uri "${KIPRJMOD}/microchip.kicad_sym")(options "")(descr ""))
+  (lib (name "cpu-32bit")(type "KiCad")(uri "${KIPRJMOD}/cpu-32bit.kicad_sym")(options "")(descr ""))
 )

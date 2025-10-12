@@ -37,7 +37,8 @@
       "memory",
       "3m",
       "aries",
-      "ti"
+      "ti",
+      "cpu-32bit"
     ]
   },
   "meta": {
