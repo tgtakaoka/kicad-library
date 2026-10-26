@@ -1,7 +1,8 @@
 # Bionic SMD connector model: KiCad's PinHeader_1x24_P2.54mm_Vertical_SMD_Pin1Right
 # with the metal of the unpopulated positions removed (the body keeps its holes)
 # and straight through-hole pins at both ends, where the footprint has THT pads.
-# usage: bionic_smt_header.py <in.step> <out.step> <missing y,...> <straight y,...>
+# Also used for the THT header (no straight list).
+# usage: bionic_smt_header.py <in.step> <out.step> <missing y,...> [<straight y,...>]
 # (model y = -footprint y)
 import sys, collections
 import cadquery as cq
@@ -18,7 +19,7 @@ from OCP.BRepBndLib import BRepBndLib
 
 src, out = sys.argv[1], sys.argv[2]
 missing = [float(v) for v in sys.argv[3].split(',')]
-straight = [float(v) for v in sys.argv[4].split(',')]
+straight = [float(v) for v in sys.argv[4].split(',')] if len(sys.argv) > 4 and sys.argv[4] else []
 POST, TOP, TAIL, CHAMFER = 0.64, 9.3, 3.0, 0.12
 doc = TDocStd_Document(TCollection_ExtendedString('d'))
 r = STEPCAFControl_Reader(); r.SetColorMode(True); r.ReadFile(src); r.Transfer(doc)
@@ -47,8 +48,9 @@ for y in straight:
            .faces('>Z').edges().chamfer(CHAMFER).faces('<Z').edges().chamfer(CHAMFER))
     pins = pin if pins is None else pins.union(pin)
 
-asm = cq.Assembly(name='Bionic_SMT_1x24')
-asm.add(pins, name='straight_pins', color=cq.Color(*gold))
+asm = cq.Assembly(name='Bionic_1x24')
+if pins is not None:
+    asm.add(pins, name='straight_pins', color=cq.Color(*gold))
 for i, (rgb, faces) in enumerate(groups.items()):
     asm.add(cq.Compound.makeCompound(faces), name=f'part{i}', color=cq.Color(*rgb))
 asm.save(out, 'STEP')
