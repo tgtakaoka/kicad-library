@@ -52,7 +52,7 @@
 			)
 		)
 	)
-	(attr through_hole allow_soldermask_bridges)
+	(attr smd)
 	(fp_line
 		(start -18 -18)
 		(end 18 -18)
@@ -246,20 +246,6 @@
 				(thickness 0.254)
 			)
 		)
-	)
-	(pad "" np_thru_hole circle
-		(at 16.51 -16.51)
-		(size 1.7 1.7)
-		(drill 1.7)
-		(layers "*.Cu" "*.Mask")
-		(uuid "c8272ea1-7852-4377-97fd-23fa3fdf62d7")
-	)
-	(pad "" np_thru_hole circle
-		(at 16.51 16.51)
-		(size 1.7 1.7)
-		(drill 1.7)
-		(layers "*.Cu" "*.Mask")
-		(uuid "31e10717-c153-4572-968f-a4bd01b9f9a1")
 	)
 	(pad "1" smd rect
 		(at 0 -14.22)
@@ -766,7 +752,7 @@
 		(uuid "1cd2a78b-3893-40fe-8220-8f07715713ce")
 	)
 	(embedded_fonts no)
-	(model "8484-21B1-RK-TP.stp"
+	(model "${KIPRJMOD}/3m.pretty/848421B1RKTP.stp"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -774,7 +760,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -90 0 0)
 		)
 	)
 )
